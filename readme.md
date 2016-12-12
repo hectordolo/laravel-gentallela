@@ -11,3 +11,6 @@ This is an installation of the [Laravel 5.3 Framework](https://laravel.com/) and
 ## License
 
 All the frameworks and programming language used are licensed to open-sourced software the [MIT license](http://opensource.org/licenses/MIT). Thus this application is also free to use.
+
+## Screen Shots
+
