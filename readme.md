@@ -15,3 +15,6 @@ All the frameworks and programming language used are licensed to open-sourced so
 ## Screen Shots
 
 ![Login Page](https://github.com/hectordolo/laravel-gentallela/blob/master/public/img/Login%20Page.png)
+![Home Page Full Sidebar](https://github.com/hectordolo/laravel-gentallela/blob/master/public/img/Laravel.png)
+![Home Page Toggle Sidebar](https://github.com/hectordolo/laravel-gentallela/blob/master/public/img/GA.png)
+![Profile Page](https://github.com/hectordolo/laravel-gentallela/blob/master/public/img/Profile.png)
